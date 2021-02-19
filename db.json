@@ -266,28 +266,6 @@
         "image_link": "https://i.imgur.com/1Opj5CG.jpg",
         "text": "",
         "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Features",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "normal",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "The Blob Runner 3D Game gives you an easy-to-use and efficient management and Blob Runner 3D allows you to focus on the most important things. It’s friendly to use maybe you will love it and Blob Runner 3D can be used on an iPhone device.",
-        "isNative": "false"
       }
     ]
   }
