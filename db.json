@@ -26,6 +26,10 @@
       {
         "title": "Tips and Cheats",
         "image": "https://i.imgur.com/kQIHv9N.jpg"
+      },
+      {
+        "title": "Video Guides",
+        "image": "https://i.imgur.com/kQIHv9N.jpg"
       }
     ],
 
@@ -70,8 +74,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "https://i.imgur.com/kiuYV6z.jpg",
+        "image_link": "https://i.imgur.com/kiuYV6z.jpg",
+        "text": "",
         "isNative": "true"
       },
       {
@@ -193,6 +197,30 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Sometimes you’ll pick up keys while you’re running. When you’ve collected three of them you’ll be able to play a pick-a-box game that will give you gems and new skins. Try and nab them if you can, but don’t put yourself at risk to pick them up. ",
+        "isNative": "false"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.youtube.com/watch?v=zPLhZR7pEOo",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "",
         "isNative": "false"
       }
     ]
