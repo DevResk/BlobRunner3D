@@ -244,28 +244,6 @@
         "image_link": "",
         "text": "Our friendly jelly can continue the race for you. Just enjoy the thrill the game brings and don’t worry about losing your new limbs, arms or hat! He’s very stubborn and stubborn to finish the race, Even If It Loses! . Also get ready to meet up with the blob family. There are many different types waiting for you!",
         "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "normal",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Do not forget! He can get bigger with more jellies. So there is no need to worry about him! You can customize your blobs with a variety of hats and skins. Show off your style by unlocking the style you desire!",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://i.imgur.com/1Opj5CG.jpg",
-        "text": "",
-        "isNative": "true"
       }
     ]
   }
