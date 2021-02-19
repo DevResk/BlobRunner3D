@@ -74,8 +74,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://i.imgur.com/kiuYV6z.jpg",
-        "text": "",
+        "image_link": "",
+        "text": "https://i.imgur.com/kiuYV6z.jpg",
         "isNative": "true"
       },
       {
@@ -205,11 +205,55 @@
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gameplay",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://www.youtube.com/watch?v=zPLhZR7pEOo",
-        "text": "",
+        "image_link": "",
+        "text": "In Blob Runner 3D, you will be transformed into a character of a rubber man with special shapes. On your way to the finish line there will be obstacles and increase in size for you! Your reward at the end of the level will be determined by the likelihood of your Blob being greater.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Once you have completed the deadly anti-jelly obstacles, you will be launched to the finish. If you are big enough, you can get to the bottom area with bigger reward. If you can’t escape the deadly obstacles, don’t worry because you can do it better.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Our friendly jelly can continue the race for you. Just enjoy the thrill the game brings and don’t worry about losing your new limbs, arms or hat! He’s very stubborn and stubborn to finish the race, Even If It Loses! . Also get ready to meet up with the blob family. There are many different types waiting for you!",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Do not forget! He can get bigger with more jellies. So there is no need to worry about him! You can customize your blobs with a variety of hats and skins. Show off your style by unlocking the style you desire!",
         "isNative": "false"
       },
       {
@@ -219,8 +263,30 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
+        "image_link": "https://i.imgur.com/1Opj5CG.jpg",
         "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Features",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The Blob Runner 3D Game gives you an easy-to-use and efficient management and Blob Runner 3D allows you to focus on the most important things. It’s friendly to use maybe you will love it and Blob Runner 3D can be used on an iPhone device.",
         "isNative": "false"
       }
     ]
